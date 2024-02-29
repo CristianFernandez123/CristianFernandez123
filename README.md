@@ -12,7 +12,7 @@ With a passion for knowledge and a drive to innovate, I embrace every opportunit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis                             | <a href="https://google.com">Detection Lab</a>|
+| Phishing Analysis                             | <a href="https://github.com/CristianFernandez123/Phishing-Analysis/tree/main">Detection Lab</a>|
 |  Disk Analysis with Autopsy    | <a href="https://google.com">Detection Lab</a>|
 | Splunk Investigation        | SOC Automation Lab|
 | FTK Imager to collect forensically sound copies of hard drives      | SOC Automation Lab|
