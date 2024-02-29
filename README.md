@@ -1,5 +1,5 @@
 # Hello, I'm Cristian Fernandez
-<a href="www.linkedin.com/in/cristian-fernandez-b7406a205"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=" www.linkedin.com/in/cristian-fernandez-b7406a205 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 BS in Cybersecurity Student / IT Systems Manager | Network Security | Digital Forensics | Incident Management | SIEM/SOAR | Security Operations Center | Blue Team | User Support | Troubleshooting
 
