@@ -1,6 +1,4 @@
 # Hello, I'm Cristian Fernandez
-<a href=" www.linkedin.com/in/cristian-fernandez-b7406a205 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 [![Connect with Cristian Fernandez on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cristian-fernandez-b7406a205)
 
 
