@@ -94,5 +94,6 @@ With a passion for knowledge and a drive to innovate, I embrace every opportunit
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Blue_Team_Level_1-1E90FF?&style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certification-FFFF00?&style=for-the-badge&logo=Google&logoColor=white" />
+    
 </div>
