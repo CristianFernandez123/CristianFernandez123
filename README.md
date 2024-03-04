@@ -14,7 +14,7 @@ With a passion for knowledge and a drive to innovate, I embrace every opportunit
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis                             | <a href="https://github.com/CristianFernandez123/Phishing-Analysis/tree/main">Phishing Lab</a>|
 |  Disk Analysis with Autopsy    | <a href="https://github.com/CristianFernandez123/Disk-Analysis-Lab">Disk Analysis Lab</a>|
-| Splunk Investigation        | SOC Automation Lab|
+| Splunk Investigation        | <a href="https://github.com/CristianFernandez123/Disk-Analysis-Lab">Splunk Lab</a>|
 | FTK Imager to collect forensically sound copies of hard drives      | SOC Automation Lab|
 | Wireshark Network Investigations                 | SOC Automation Lab|
 | DeepBlueCLI For Event Log Analysis | SOC Automation Lab|
