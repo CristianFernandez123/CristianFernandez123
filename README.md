@@ -16,7 +16,7 @@ With a passion for knowledge and a drive to innovate, I embrace every opportunit
 |  Disk Analysis with Autopsy    | <a href="https://github.com/CristianFernandez123/Disk-Analysis-Lab">Disk Analysis Lab</a>|
 | Splunk Investigation        | <a href="https://github.com/CristianFernandez123/Splunk-Lab/tree/main">Splunk Lab</a>|
 | Wireshark Network Investigations                 | <a href="https://github.com/CristianFernandez123/Analyzing-PCAPs-Lab/tree/main">Wireshark Lab</a>|
-| DeepBlueCLI For Event Log Analysis | SOC Automation Lab|
+| DeepBlueCLI For Event Log Analysis |<a href="https://github.com/CristianFernandez123/DeepBlueCLI-Lab/tree/main">DeepBlueCLI Lab</a>|
 | TheHive: Case Management  | SOC Automation Lab|
 
 ## Tools
